@@ -11,7 +11,7 @@ Converter o seguinte design para HTML/CSS/JS.
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requisitos
-1. Crie a arquitetura do projeto. Não é obrigatório utilizar a arquitetura de um projeto Angular na versão mais recente, mas será tratado como bônus para aprovação do candidato.
+1. Crie a arquitetura do projeto. Não é obrigatório utilizar a arquitetura de um projeto Angular ou ReactJS na versão mais recente, mas será tratado como bônus para aprovação do candidato.
 2. Use HTML5 / CSS3. A utilização do pré-processador SASS será tratado como bônus para aprovação do candidato.
 3. A tela deve ser responsiva e adaptada para dispositivos móveis (Android e iOS). É ideal que haja suporte responsivo também para tablets.
 4. Não utilize JQuery.
